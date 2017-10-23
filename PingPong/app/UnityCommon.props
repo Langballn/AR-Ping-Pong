@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>PingPong</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Nicole\Desktop\PingPong\app\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Nicole\Desktop\PingPong\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

@@ -1,0 +1,4 @@
+C:\Users\Nicole\Desktop\PingPong\app\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Nicole\Desktop\PingPong\app\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Nicole\Desktop\PingPong\app\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Nicole\Desktop\PingPong\app\PingPong\PingPong.csproj;x86

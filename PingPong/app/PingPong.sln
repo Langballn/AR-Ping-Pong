@@ -1,0 +1,95 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong", "PingPong\PingPong.csproj", "{13A45C13-3265-47B8-BC48-A553B569DF55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "C:\Users\Nicole\Desktop\PingPong\app\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj", "{2C351864-F738-423F-82E4-21A6FB09B76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "C:\Users\Nicole\Desktop\PingPong\app\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj", "{1328A466-F556-40D8-8216-7AE4BE19EB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Master|ARM = Master|ARM
+		Master|x64 = Master|x64
+		Master|x86 = Master|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Debug|ARM.ActiveCfg = Debug|ARM
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Debug|ARM.Build.0 = Debug|ARM
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Debug|ARM.Deploy.0 = Debug|ARM
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Debug|x64.ActiveCfg = Debug|x64
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Debug|x64.Build.0 = Debug|x64
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Debug|x64.Deploy.0 = Debug|x64
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Debug|x86.ActiveCfg = Debug|x86
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Debug|x86.Build.0 = Debug|x86
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Debug|x86.Deploy.0 = Debug|x86
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Master|ARM.ActiveCfg = Master|ARM
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Master|ARM.Build.0 = Master|ARM
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Master|ARM.Deploy.0 = Master|ARM
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Master|x64.ActiveCfg = Master|x64
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Master|x64.Build.0 = Master|x64
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Master|x64.Deploy.0 = Master|x64
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Master|x86.ActiveCfg = Master|x86
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Master|x86.Build.0 = Master|x86
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Master|x86.Deploy.0 = Master|x86
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|ARM.ActiveCfg = Release|ARM
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|ARM.Build.0 = Release|ARM
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|ARM.Deploy.0 = Release|ARM
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x64.ActiveCfg = Release|x64
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x64.Build.0 = Release|x64
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x64.Deploy.0 = Release|x64
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.ActiveCfg = Release|x86
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.Build.0 = Release|x86
+		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.Deploy.0 = Release|x86
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Debug|ARM.Build.0 = Debug|ARM
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Debug|x64.ActiveCfg = Debug|x64
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Debug|x64.Build.0 = Debug|x64
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Debug|x86.ActiveCfg = Debug|x86
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Debug|x86.Build.0 = Debug|x86
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Master|ARM.ActiveCfg = Master|ARM
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Master|ARM.Build.0 = Master|ARM
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Master|x64.ActiveCfg = Master|x64
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Master|x64.Build.0 = Master|x64
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Master|x86.ActiveCfg = Master|x86
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Master|x86.Build.0 = Master|x86
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Release|ARM.ActiveCfg = Release|ARM
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Release|ARM.Build.0 = Release|ARM
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Release|x64.ActiveCfg = Release|x64
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Release|x64.Build.0 = Release|x64
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Release|x86.ActiveCfg = Release|x86
+		{2C351864-F738-423F-82E4-21A6FB09B76E}.Release|x86.Build.0 = Release|x86
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Debug|ARM.ActiveCfg = Debug|ARM
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Debug|ARM.Build.0 = Debug|ARM
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Debug|x64.ActiveCfg = Debug|x64
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Debug|x64.Build.0 = Debug|x64
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Debug|x86.ActiveCfg = Debug|x86
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Debug|x86.Build.0 = Debug|x86
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Master|ARM.ActiveCfg = Master|ARM
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Master|ARM.Build.0 = Master|ARM
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Master|x64.ActiveCfg = Master|x64
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Master|x64.Build.0 = Master|x64
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Master|x86.ActiveCfg = Master|x86
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Master|x86.Build.0 = Master|x86
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Release|ARM.ActiveCfg = Release|ARM
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Release|ARM.Build.0 = Release|ARM
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Release|x64.ActiveCfg = Release|x64
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Release|x64.Build.0 = Release|x64
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Release|x86.ActiveCfg = Release|x86
+		{1328A466-F556-40D8-8216-7AE4BE19EB58}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {698E897D-47B1-4D0D-A23C-C5280BD76251}
+	EndGlobalSection
+EndGlobal
